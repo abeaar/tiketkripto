@@ -1,0 +1,6 @@
+streamlit
+mysql-connector-python
+cryptography
+psycopg2-binary
+python-dotenv
+pycryptodome
